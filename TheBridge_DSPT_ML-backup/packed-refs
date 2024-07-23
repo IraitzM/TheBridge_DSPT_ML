@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+2138007b68cb5b371e165e15fb0e164f46f1d415 refs/heads/Development
+a8d70f3f35193ac14a62aa3773fb76beab7bceea refs/heads/main
+a8d70f3f35193ac14a62aa3773fb76beab7bceea refs/heads/work_branch
